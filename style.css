@@ -1,0 +1,67 @@
+body{
+margin: 0;
+padding: 0;
+font: 1em sans-serif;
+}
+
+.header{
+    background: green;
+    padding: 0;
+    height: 80px;
+}
+.button{
+    margin: 100px auto;
+    width:3px;
+    height: 6px;
+    position: relative;
+    left: 911px;
+    top: -162px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.avto{
+    background: green;
+    width: 0.1px;
+    height: 40px;
+    padding: 0 0 0 50px;
+    position: absolute;
+    line-height: 60px;
+    font-size: 2em;
+    z-index: 2;
+}
+#vk{
+    vertical-align: middle;
+    position: absolute;
+    z-index: 3;
+    left: 15px;
+    top: 7px;
+}
+.center{
+    background: white;
+    height:624px;
+}
+.footer{
+    background: #666464;
+    height:60px;
+    left: 15px;
+    top: 7px;
+}
+h3{
+    position: fixed;
+}
+.razrab{
+    text-align: right;
+    position: fixed;
+    right: 10px;
+}
+
+.razrab:hover{
+    color: #EDEFB2;
+    text-decoration: underline;
+}
+
+
+
+
